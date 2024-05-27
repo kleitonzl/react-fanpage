@@ -32,3 +32,6 @@ export default App
 
 
 //git init
+//git add .
+//git status
+//git git comit -m "escrever uma mensagem"
