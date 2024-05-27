@@ -12,10 +12,10 @@ export const Containertext =  styled.div`
 display: flex;
 flex-direction: column;
 align-items: start;
-margin-left: 30px;
 `
 
 export const Div1= styled.div`
+margin-left: 50px;
 display: flex;
 align-items: center;
 background-color: darkgray;
@@ -25,7 +25,7 @@ height: 160px; /* Altura fixa para o quadrado */
 padding: 20px;
 box-sizing: border-box; /* Inclui o padding na largura e altura */
 overflow: hidden; /* Esconde qualquer conteúdo transbordante */
-text-align: justify; /* Centraliza o texto */
+text-align: center; /* Centraliza o texto */
     
 `
 
